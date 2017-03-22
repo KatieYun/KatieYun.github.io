@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dndlab.ios.jestina</string>
+				<string>com.jebiz.ios.jestina</string>
 				<key>bundle-version</key>
 				<string>0.6</string>
 				<key>kind</key>
