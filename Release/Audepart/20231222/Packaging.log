@@ -1,0 +1,161 @@
+2023-12-21 15:50:19 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8a088279a0; archive(resolved)="<IDEArchive: 0x60003566f120>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8a088279a0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f89e9741850; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f89e9a659c0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f89ff1ee6e0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f89f9a09ba0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f89ffe14ab0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8a0323d7f0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8a032d9370; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f89ff162840; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000665a5c0; teamID='8WU44KDHA7', teamName='Au Depart Holdings (UK) Limited', teamType='Company', username='pik0414@naver.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8a03235990; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="(null)">
+	<IDEDistributionContext: 0x7f89eac70ab0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="(null)">
+	<IDEDistributionContext: 0x7f89fc90f020; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="(null)">
+	<IDEDistributionContext: 0x7f89ff107200; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60006f168c50>", team="(null)">
+	<IDEDistributionContext: 0x7f89fbea48f0; archive = "<IDEArchive: 0x60003566f120>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f8a088279a0>
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCopyItemStep
+2023-12-21 15:50:19 +0000  Running /usr/bin/ditto '-V' '/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app'
+2023-12-21 15:50:19 +0000  >>> Copying /Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app 
+2023-12-21 15:50:19 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-12-21 15:50:19 +0000  5043 bytes for ./_CodeSignature/CodeResources
+2023-12-21 15:50:19 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-12-21 15:50:19 +0000  3348 bytes for ./AppIcon60x60@2x.png
+copying file ./GoogleService-Info.plist ... 
+2023-12-21 15:50:19 +0000  460 bytes for ./GoogleService-Info.plist
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/Main.storyboardc/StartNavigationVc.nib ... 
+2023-12-21 15:50:19 +0000  1785 bytes for ./Base.lproj/Main.storyboardc/StartNavigationVc.nib
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-12-21 15:50:19 +0000  3792 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-12-21 15:50:19 +0000  233 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/Main.storyboardc/StartWebVc.nib ... 
+2023-12-21 15:50:19 +0000  1121 bytes for ./Base.lproj/Main.storyboardc/StartWebVc.nib
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-12-21 15:50:19 +0000  2175 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-12-21 15:50:19 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-12-21 15:50:19 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-12-21 15:50:19 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-12-21 15:50:19 +0000  copying file ./Assets.car ... 
+2023-12-21 15:50:19 +0000  175967 bytes for ./Assets.car
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2023-12-21 15:50:19 +0000  4369 bytes for ./AppIcon76x76@2x~ipad.png
+2023-12-21 15:50:19 +0000  copying file ./embedded.mobileprovision ... 
+2023-12-21 15:50:19 +0000  14692 bytes for ./embedded.mobileprovision
+2023-12-21 15:50:19 +0000  copying file ./audepart ... 
+2023-12-21 15:50:19 +0000  839696 bytes for ./audepart
+2023-12-21 15:50:19 +0000  copying file ./Info.plist ... 
+2023-12-21 15:50:19 +0000  1325 bytes for ./Info.plist
+2023-12-21 15:50:19 +0000  copying file ./PkgInfo ... 
+2023-12-21 15:50:19 +0000  8 bytes for ./PkgInfo
+2023-12-21 15:50:19 +0000  /usr/bin/ditto exited with 0
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionSymbolsStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionAppThinningStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionArchThinningStep
+2023-12-21 15:50:19 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app/audepart' '-verify_arch' 'arm64e'
+2023-12-21 15:50:19 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-12-21 15:50:19 +0000  Skipping architecture thinning for item "audepart" because arch "arm64e" wasn't found
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionODRStep
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-12-21 15:50:19 +0000  Running /usr/bin/xattr '-crs' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app'
+2023-12-21 15:50:19 +0000  /usr/bin/xattr exited with 0
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCodesignStep
+2023-12-21 15:50:19 +0000  Entitlements for <IDEDistributionItem: 0x60003567c660; bundleID='com.audepart', path='<DVTFilePath:0x600011b068b0:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000a137fbb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000107451e0; name='Apple Development: park junhyeok (3AF37N2LG3)', hash='A92B27BB524F60D9760CC04E649531B9A554AC5B', serialNumber='3A284AFA753F268AEA63E3E257A62B6', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-12-21 11:47:42 +0000''>', entitlements='{
+    "application-identifier" = "8WU44KDHA7.com.audepart";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = 8WU44KDHA7;
+    "get-task-allow" = 1;
+}', teamID='8WU44KDHA7', identifier='com.audepart', executablePath='<DVTFilePath:0x600011aca920:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app/audepart'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "8WU44KDHA7.com.audepart";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = 8WU44KDHA7;
+    "get-task-allow" = 0;
+}
+2023-12-21 15:50:19 +0000  Entitlements for <IDEDistributionItem: 0x60003567c660; bundleID='com.audepart', path='<DVTFilePath:0x600011b068b0:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000a137fbb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600010746890; name='Apple Development: park junhyeok (3AF37N2LG3)', hash='A92B27BB524F60D9760CC04E649531B9A554AC5B', serialNumber='3A284AFA753F268AEA63E3E257A62B6', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-12-21 11:47:42 +0000''>', entitlements='{
+    "application-identifier" = "8WU44KDHA7.com.audepart";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = 8WU44KDHA7;
+    "get-task-allow" = 1;
+}', teamID='8WU44KDHA7', identifier='com.audepart', executablePath='<DVTFilePath:0x600011aca920:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app/audepart'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "8WU44KDHA7.com.audepart";
+    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = 8WU44KDHA7;
+    "get-task-allow" = 0;
+}
+2023-12-21 15:50:19 +0000  Writing entitlements for <IDEDistributionItem: 0x60003567c660; bundleID='com.audepart', path='<DVTFilePath:0x600011b068b0:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000a137fbb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000107446e0; name='Apple Development: park junhyeok (3AF37N2LG3)', hash='A92B27BB524F60D9760CC04E649531B9A554AC5B', serialNumber='3A284AFA753F268AEA63E3E257A62B6', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-12-21 11:47:42 +0000''>', entitlements='{
+    "application-identifier" = "8WU44KDHA7.com.audepart";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = 8WU44KDHA7;
+    "get-task-allow" = 1;
+}', teamID='8WU44KDHA7', identifier='com.audepart', executablePath='<DVTFilePath:0x600011aca920:'/Users/katie/Library/Developer/Xcode/Archives/2023-12-22/audepart 2023-12-22 12.47 AM.xcarchive/Products/Applications/audepart.app/audepart'>', hardenedRuntime='0'>'> to: /var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/entitlements~~~7fsaUy
+2023-12-21 15:50:19 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'C0A664BFB5FBCAB42DCB2DFC13C339A1310D9518' '--entitlements' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/entitlements~~~7fsaUy' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app'
+2023-12-21 15:50:19 +0000  /var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app: replacing existing signature
+2023-12-21 15:50:19 +0000  /var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app: signed app bundle with Mach-O thin (arm64) [com.audepart]
+2023-12-21 15:50:19 +0000  /usr/bin/codesign exited with 0
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-12-21 15:50:19 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root' '/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Packages/audepart.ipa'
+2023-12-21 15:50:19 +0000  >>> Copying /var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root 
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/_CodeSignature/CodeResources ... 
+2023-12-21 15:50:19 +0000  5043 bytes for ./Payload/audepart.app/_CodeSignature/CodeResources
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/AppIcon60x60@2x.png ... 
+3348 bytes for ./Payload/audepart.app/AppIcon60x60@2x.png
+copying file ./Payload/audepart.app/GoogleService-Info.plist ... 
+2023-12-21 15:50:19 +0000  460 bytes for ./Payload/audepart.app/GoogleService-Info.plist
+copying file ./Payload/audepart.app/Base.lproj/Main.storyboardc/StartNavigationVc.nib ... 
+2023-12-21 15:50:19 +0000  1785 bytes for ./Payload/audepart.app/Base.lproj/Main.storyboardc/StartNavigationVc.nib
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-12-21 15:50:19 +0000  3792 bytes for ./Payload/audepart.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/audepart.app/Base.lproj/Main.storyboardc/Info.plist ... 
+233 bytes for ./Payload/audepart.app/Base.lproj/Main.storyboardc/Info.plist
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/Base.lproj/Main.storyboardc/StartWebVc.nib ... 
+1121 bytes for ./Payload/audepart.app/Base.lproj/Main.storyboardc/StartWebVc.nib
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-12-21 15:50:19 +0000  2175 bytes for ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+896 bytes for ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/audepart.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/audepart.app/Assets.car ... 
+2023-12-21 15:50:19 +0000  175967 bytes for ./Payload/audepart.app/Assets.car
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/AppIcon76x76@2x~ipad.png ... 
+2023-12-21 15:50:19 +0000  4369 bytes for ./Payload/audepart.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/audepart.app/embedded.mobileprovision ... 
+2023-12-21 15:50:19 +0000  16843 bytes for ./Payload/audepart.app/embedded.mobileprovision
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/audepart ... 
+2023-12-21 15:50:19 +0000  839712 bytes for ./Payload/audepart.app/audepart
+2023-12-21 15:50:19 +0000  copying file ./Payload/audepart.app/Info.plist ... 
+1325 bytes for ./Payload/audepart.app/Info.plist
+copying file ./Payload/audepart.app/PkgInfo ... 
+2023-12-21 15:50:19 +0000  8 bytes for ./Payload/audepart.app/PkgInfo
+2023-12-21 15:50:19 +0000  /usr/bin/ditto exited with 0
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-12-21 15:50:19 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-12-21 15:50:19 +0000  IDEDistributionItem init <DVTFilePath:0x600011ae10a0:'/var/folders/1p/2_mc63hd7m58nlgs6z_n8gnw0000gn/T/XcodeDistPipeline.~~~FZWAeN/Root/Payload/audepart.app'>
+2023-12-21 15:50:19 +0000  Processing step: IDEDistributionCreateManifestStep

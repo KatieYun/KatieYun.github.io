@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audepart.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C0A664BFB5FBCAB42DCB2DFC13C339A1310D9518</string>
+				<key>dateExpires</key>
+				<string>2024/12/20</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8WU44KDHA7.com.audepart</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8WU44KDHA7</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>audepart.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>60fa32bc-7332-4c39-a7c5-16a0e8804b09</string>
+				<key>dateExpires</key>
+				<string>2024/12/20</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.audepart</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8WU44KDHA7</string>
+				<key>name</key>
+				<string>Au Depart Holdings (UK) Limited</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
